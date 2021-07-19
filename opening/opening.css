@@ -1,0 +1,40 @@
+
+* {
+	margin:0;
+	padding:0;
+}
+
+
+#openingbanner {
+	width:800px;
+	margin:10px auto;
+	position:relative;
+}
+
+#openingthebutton{
+	width:50px;
+	position:absolute;
+	bottom:0;
+	right:10px;
+	z-index:3;
+	
+}
+
+#openinggif img
+{
+	
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+ width:200px;
+
+}
+#openinggif2 img
+{
+	
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}

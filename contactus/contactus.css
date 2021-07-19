@@ -1,0 +1,43 @@
+@charset "UTF-8"; 
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	font-family:'helvetica','sans-serif';
+}
+
+header
+{
+	
+	background-color:grey;
+	padding:20px;
+	margin:0 0 40px 0;
+	position:relative;
+	
+}
+
+
+.openinglogo span
+{
+	color:black;
+	font-size:5em;
+	margin:0 0 40px 0;
+}
+
+.openinglogo img
+{
+	margin:20px;
+}
+
+
+.contactform
+{
+	margin:0 0 0 40px;
+}
+
+
+
